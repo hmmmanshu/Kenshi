@@ -9,9 +9,9 @@ UI follows two pages with a consistent color theme following the application.
 
 Home Page:
 
-![image](UI\main_screen.PNG)
+![image](./UI/main_screen.PNG)
 
-![image](UI\chat_screen.PNG)
+![image](./UI/chat_screen.PNG)
 
 To run it locally on your system, follow these steps:
 1. Clone this repository onto your system. On Command Prompt, run the following command:
