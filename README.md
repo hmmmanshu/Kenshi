@@ -16,21 +16,21 @@ Home Page:
 To run it locally on your system, follow these steps:
 1. Clone this repository onto your system. On Command Prompt, run the following command:
 
-```
-https://github.com/Bot-7037/Kenshi.git
-```
+  ```
+  https://github.com/Bot-7037/Kenshi.git
+  ```
 2. Change your directory to Chatbot:
-```
-cd Chatbot
-```
+  ```
+  cd Chatbot
+  ```
 3. Make sure you have all the required libraries listed in requirements.txt. In case any of the libraries are missing, install them using pip. Type this command into your Command Prompt, replacing 'Your-library-name' by the required library name:
-```
-pip install -r requirements.txt
-```
+  ```
+  pip install -r requirements.txt
+  ```
 4. Then run the follwing commands to run the application:
-```
-flask --app ./chatbot.py run
-```
+  ```
+  flask --app ./chatbot.py run
+  ```
 
 5. Follow the URL provided in the output
 
