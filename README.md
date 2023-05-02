@@ -17,7 +17,7 @@ To run it locally on your system, follow these steps:
 1. Clone this repository onto your system. On Command Prompt, run the following command:
 
 ```
-Github Link Here
+https://github.com/Bot-7037/Kenshi.git
 ```
 2. Change your directory to Chatbot:
 ```
