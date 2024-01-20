@@ -5,7 +5,7 @@ Kenshi is a multipurpose chatbot made using Python3 and Flask, who can chat with
 
 ## Project UI
 
-UI follows two pages with a consistent color theme following the application.
+UI follows two pages with a consistent theme following the application.
 
 Home Page:
 
